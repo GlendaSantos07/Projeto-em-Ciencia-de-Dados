@@ -1,8 +1,7 @@
-# Projeto em Ciência de Dados
+# Projeto em Ciência de Dados - Análise de dados de queimadas no Brasil entre 2017 a 2021.<br>
 Projeto para a disciplina Ciência de Dados realizado junto ao curso de Bacharelado em Ciência da Computação da Universidade Nove de Julho
 
 <div align=justify>
-Análise de dados de queimadas no Brasil entre 2017 a 2021.<br>
 <br>
 <b>Em qual contexto os dados de queimadas são úteis??</b><br>
 O monitoramento de queimadas e incêndios florestais em imagens de satélites é particularmente útil para regiões remotas sem meios intensivos e locais de acompanhamento, condição esta que representa a situação geral do País. Para uma área com torres de observação guarnecidas continuamente e mantendo comunicação direta com brigadas de combate de fogo, os dados de satélite têm interesse marginal.
