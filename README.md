@@ -1,4 +1,4 @@
-# Projeto-em-Ciencia-de-Dados
+# Projeto em Ciência de Dados
 Projeto para a disciplina Ciência de Dados realizado junto ao curso de Bacharelado em Ciência da Computação da Universidade Nove de Julho
 
 <div align=justify>
