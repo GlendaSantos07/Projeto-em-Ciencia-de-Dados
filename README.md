@@ -11,3 +11,10 @@ A detecção dos focos de queima de vegetação nas imagens utiliza um mesmo mod
 
  O Brasil é o país com a maior cobertura vegetal no mundo, porém, ela vem sendo destruída ao poucos devido a interesses monetários do agronegócio. Esses dados são de 2017 -2021, ou seja, há um gap de 6 meses em que a situação pode ter mudado. Por isso, para conclusões mais profundas necessitamos de dados mais atuais.
   </div>
+
+@misc{storopolisouza2020cienciadedados,
+  author = {Storopoli, Jose and Souza, Edson Melo de},
+  title = {Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch},
+  url = {https://github.com/storopoli/ciencia-de-dado},
+  year = {2020}
+}
